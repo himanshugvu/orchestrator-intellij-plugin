@@ -1,0 +1,21 @@
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="generate" path="ActionManager" hit="Generate Orchestrator Project" />
+    <option name="orchestrator" path="ActionManager" hit="Generate Orchestrator Project" />
+    <option name="project" path="ActionManager" hit="Generate Orchestrator Project" />
+    <option name="a" path="ActionManager" hit="Generate a new Spring Boot orchestrator project" />
+    <option name="boot" path="ActionManager" hit="Generate a new Spring Boot orchestrator project" />
+    <option name="generate" path="ActionManager" hit="Generate a new Spring Boot orchestrator project" />
+    <option name="new" path="ActionManager" hit="Generate a new Spring Boot orchestrator project" />
+    <option name="orchestrator" path="ActionManager" hit="Generate a new Spring Boot orchestrator project" />
+    <option name="project" path="ActionManager" hit="Generate a new Spring Boot orchestrator project" />
+    <option name="spring" path="ActionManager" hit="Generate a new Spring Boot orchestrator project" />
+  </configurable>
+  <configurable id="com.orchestrator.generator.config.OrchestratorGeneratorConfigurable" configurable_name="Orchestrator Generator">
+    <option name="generator" hit="Orchestrator Generator" />
+    <option name="orchestrator" hit="Orchestrator Generator" />
+    <option name="configuration" hit="Orchestrator Generator Configuration" />
+    <option name="generator" hit="Orchestrator Generator Configuration" />
+    <option name="orchestrator" hit="Orchestrator Generator Configuration" />
+  </configurable>
+</options>
