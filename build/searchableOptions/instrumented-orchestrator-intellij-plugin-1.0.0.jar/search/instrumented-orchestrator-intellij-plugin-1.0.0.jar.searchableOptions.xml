@@ -1,15 +1,27 @@
 <options>
   <configurable id="preferences.keymap" configurable_name="Keymap">
-    <option name="generate" path="ActionManager" hit="Generate Orchestrator Project" />
-    <option name="orchestrator" path="ActionManager" hit="Generate Orchestrator Project" />
-    <option name="project" path="ActionManager" hit="Generate Orchestrator Project" />
-    <option name="a" path="ActionManager" hit="Generate a new Spring Boot orchestrator project" />
-    <option name="boot" path="ActionManager" hit="Generate a new Spring Boot orchestrator project" />
-    <option name="generate" path="ActionManager" hit="Generate a new Spring Boot orchestrator project" />
-    <option name="new" path="ActionManager" hit="Generate a new Spring Boot orchestrator project" />
-    <option name="orchestrator" path="ActionManager" hit="Generate a new Spring Boot orchestrator project" />
-    <option name="project" path="ActionManager" hit="Generate a new Spring Boot orchestrator project" />
-    <option name="spring" path="ActionManager" hit="Generate a new Spring Boot orchestrator project" />
+    <option name="a" path="ActionManager" hit="Create a new Spring Boot event adapter project" />
+    <option name="adapter" path="ActionManager" hit="Create a new Spring Boot event adapter project" />
+    <option name="boot" path="ActionManager" hit="Create a new Spring Boot event adapter project" />
+    <option name="create" path="ActionManager" hit="Create a new Spring Boot event adapter project" />
+    <option name="event" path="ActionManager" hit="Create a new Spring Boot event adapter project" />
+    <option name="new" path="ActionManager" hit="Create a new Spring Boot event adapter project" />
+    <option name="project" path="ActionManager" hit="Create a new Spring Boot event adapter project" />
+    <option name="spring" path="ActionManager" hit="Create a new Spring Boot event adapter project" />
+    <option name="adapter" path="ActionManager" hit="Event Adapter Project" />
+    <option name="event" path="ActionManager" hit="Event Adapter Project" />
+    <option name="project" path="ActionManager" hit="Event Adapter Project" />
+    <option name="adapter" path="ActionManager" hit="Generate Event Adapter" />
+    <option name="event" path="ActionManager" hit="Generate Event Adapter" />
+    <option name="generate" path="ActionManager" hit="Generate Event Adapter" />
+    <option name="a" path="ActionManager" hit="Generate a new Spring Boot event adapter project" />
+    <option name="adapter" path="ActionManager" hit="Generate a new Spring Boot event adapter project" />
+    <option name="boot" path="ActionManager" hit="Generate a new Spring Boot event adapter project" />
+    <option name="event" path="ActionManager" hit="Generate a new Spring Boot event adapter project" />
+    <option name="generate" path="ActionManager" hit="Generate a new Spring Boot event adapter project" />
+    <option name="new" path="ActionManager" hit="Generate a new Spring Boot event adapter project" />
+    <option name="project" path="ActionManager" hit="Generate a new Spring Boot event adapter project" />
+    <option name="spring" path="ActionManager" hit="Generate a new Spring Boot event adapter project" />
   </configurable>
   <configurable id="com.orchestrator.generator.config.OrchestratorGeneratorConfigurable" configurable_name="Orchestrator Generator">
     <option name="generator" hit="Orchestrator Generator" />
